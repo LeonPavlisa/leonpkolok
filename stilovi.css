@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+h1 {
+color:black;
+	font-family: LeonPavlisa;
+	line-height: 18px;
+	width: 600px;
+	background-color: yellow;
+	padding: 20px;
+	}
+h2{
+	color: white;
+}
+p{
+	color:white;
+}
+span {color: rgb(255, 0, 255);}
+body{
+ background-image: url("slike/roza.jpg");
+	
+}
+
+.drugapozadina{
+	background-image: url("slike/rainbow.jpg");
+}
+
